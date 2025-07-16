@@ -7,7 +7,7 @@ int main()
     printf("Enter a Number: ");
     scanf("%d", &num);
 
-      printf("Enter Range that you Multiplication: ");
+      printf("Enter Range that you Multiplication:1 to ");
     scanf("%d", &range);
 
 
